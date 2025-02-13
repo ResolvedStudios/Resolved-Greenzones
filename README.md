@@ -1,2 +1,31 @@
 # Resolved-Greenzones
-Simple Green Zone for FiveM standalone. It has Resolved Notify, and on map blips.
+### Resolved-Greenzones is an easy-to-use and configurable script for managing green zones in FiveM servers. It allows you to quickly define safe areas where players cannot engage in hostile actions like melee combat, shooting, or aiming, ensuring a more controlled and peaceful environment in designated zones.
+
+## Features:
+- Pre-configured Zones: Includes pre-set safe zones like MRPD (Mission Row Police Department), Sandy Shores PD, and others.
+- Player Notifications: Players will be notified when they enter or leave a green zone.
+## Restricted Actions:
+- No Melee: Players can't use melee weapons within the zone.
+- No Shooting/Aiming: Players cannot shoot or aim weapons in green zones.
+- Invincible: Players within green zones are invincible and cannot die.
+### With Resolved-Greenzones, you can easily control the behavior of players within safe areas and create a more immersive and regulated environment for your server.
+
+---
+# Add a green zone
+### Format:
+- {coords = vector3(X, Y, Z), radius = 50.0, name = "Zone Name"},
+
+### Example:
+- {coords = vector3(100.0, 100.0, 30.0), radius = 50.0, name = "Custom Green Zone"}
+
+## Explanation:
+- coords: These are the X, Y, and Z coordinates for the center of the green zone.
+- radius: This defines how large the green zone will be (in meters).
+- name: A label for the zone to identify it.
+
+> [!TIP]
+> The coordinates for each zone are the center of the zone. You can find these coordinates using an in-game tool or by getting the coordinates of the desired location with in-game commands.
+
+## [Resolved Notify](https://github.com/ResolvedStudios/Resolved-Notify)
+Resolved Notify is used in this code! Press on that link to get more information. If the link does not 
+work here is the direct link: https://github.com/ResolvedStudios/Resolved-Notify
