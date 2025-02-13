@@ -41,8 +41,6 @@
 - radius: This defines how large the green zone will be (in meters).
 - name: A label for the zone to identify it.
 
-> [!TIP]
-> The coordinates for each zone are the center of the zone. You can find these coordinates using an in-game tool or by getting the coordinates of the desired location with in-game commands.
 
 ## [Resolved Notify](https://github.com/ResolvedStudios/Resolved-Notify)
 Resolved Notify is used in this code! Press on that link to get more information. If the link does not 
