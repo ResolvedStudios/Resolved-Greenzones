@@ -1,6 +1,10 @@
 # Resolved-Greenzones
 ### Resolved-Greenzones is an easy-to-use and configurable script for managing green zones in FiveM servers. It allows you to quickly define safe areas where players cannot engage in hostile actions like melee combat, shooting, or aiming, ensuring a more controlled and peaceful environment in designated zones.
 
+![Blips](https://github.com/user-attachments/assets/dc5cbe28-9f4d-42d8-815f-010e7c8b1e47) ![Notifcations](https://github.com/user-attachments/assets/a422adc0-c799-4ff6-a9a9-d05e96687967)
+
+
+
 ## Features:
 - Pre-configured Zones: Includes pre-set safe zones like MRPD (Mission Row Police Department), Sandy Shores PD, and others.
 - Map Blips: Ensures users can identify a green zone.
@@ -26,7 +30,6 @@
 
 ### Step 4
 - Configure/Add green zones (optional)
-
 
 
 ---
