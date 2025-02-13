@@ -13,11 +13,16 @@
 # Install Resolved-Greenzones
 ### Step 1
 - Download the main file
+- Donload [Resolved-Notify](https://github.com/ResolvedStudios/Resolved-Notify) (MUST DOWNLOAD THIS FOR NOTIFACTIONS TO WORK)
 ### Step 2
 - Drag and drop "Resolved-Greenzone" into your resource folder
+- Drag and drop "Resolved-Notify" into your resource folder
+
 ### Step 3
 - Go into your server.cfg
 - Pleases put this line into your CFG - "ensure Resolved-Greenzone"
+- Pleases put this line into your CFG - "ensure Resolved-Notify"
+
 ### Step 4
 - Configure/Add green zones (optional)
 
