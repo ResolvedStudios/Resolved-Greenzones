@@ -3,6 +3,7 @@
 
 ## Features:
 - Pre-configured Zones: Includes pre-set safe zones like MRPD (Mission Row Police Department), Sandy Shores PD, and others.
+- Map Blips: Ensures users can identify a green zone.
 - Player Notifications: Players will be notified when they enter or leave a green zone.
 ## Restricted Actions:
 - No Melee: Players can't use melee weapons within the zone.
@@ -13,7 +14,7 @@
 # Install Resolved-Greenzones
 ### Step 1
 - Download the main file
-- Donload [Resolved-Notify](https://github.com/ResolvedStudios/Resolved-Notify) (MUST DOWNLOAD THIS FOR NOTIFACTIONS TO WORK)
+- Donload [Resolved-Notify](https://github.com/ResolvedStudios/Resolved-Notify) (MUST DOWNLOAD THIS FOR NOTIFICATIONS TO WORK)
 ### Step 2
 - Drag and drop "Resolved-Greenzone" into your resource folder
 - Drag and drop "Resolved-Notify" into your resource folder
